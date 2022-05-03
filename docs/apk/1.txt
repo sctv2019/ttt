@@ -1,0 +1,4 @@
+mv org_videolan_vlc_3_4_4_13040404_minapi17_armeabi_v7a_nodpi_apkmirror_com.apk  vlc_344_arm_v7a.apk                          
+mv org_videolan_vlc_3_4_4_13040405_minapi17_x86_nodpi_apkmirror_com.apk          vlc_344_x86.apk                          
+mv org_videolan_vlc_3_4_4_13040407_minapi17_arm64_v8a_nodpi_apkmirror_com.apk    vlc_344_arm64_v8a.apk                          
+mv org_videolan_vlc_3_4_4_13040408_minapi17_x86_64_nodpi_apkmirror_com.apk       vlc_344_x86_64.apk                          
